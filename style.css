@@ -4,7 +4,7 @@ body {
   color: black;
 }
 .blur-bg {
-  background: url('backgroung.jpg') no-repeat center center fixed;
+  background: url('background.jpg') no-repeat center center fixed;
   background-size: cover;
 }
 .blur-bg::before {
